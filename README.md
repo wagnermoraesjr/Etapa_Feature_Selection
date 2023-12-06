@@ -6,5 +6,4 @@ Ao selecionar as features mais informativas, o modelo se torna mais preciso, efi
 
 Sinta-se à vontade para contribuir, compartilhar suas experiências, ou sugerir melhorias.<br><br>
 
-🔗 [**Google Colab:** Feature Selection - Problema de Churn](https://github.com/wagnermoraesjr/Etapa_Feature_Selection
-/blob/main/Notebook_Feature_Selection_Problema_Churn_github.ipynb)
+🔗 [**Google Colab:** Feature Selection - Problema de Churn](https://github.com/wagnermoraesjr/Etapa_Feature_Selection/blob/main/Notebook_Feature_Selection_Problema_Churn_github.ipynb)
